@@ -922,7 +922,7 @@ if __name__ == '__main__':
     login()
     #cek_pw()
 #-----------------[ IMPORT-MODULE ]-------------------
-	if 'ya' in 
+	if'ya'in 
 
 #>>>>> THANKS TO ━━━━━━━━━━━━━━━━┛
 """)
